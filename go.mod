@@ -1,4 +1,4 @@
-module firebase.google.com/go/v4
+module firebase.google.com/go
 
 go 1.15
 
