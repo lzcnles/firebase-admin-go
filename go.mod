@@ -1,4 +1,4 @@
-module lzcnles
+module firebase.google.com/go/v4
 
 go 1.15
 
