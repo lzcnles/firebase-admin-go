@@ -1,4 +1,4 @@
-module firebase.google.com
+module lzcnles
 
 go 1.15
 
